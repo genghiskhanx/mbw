@@ -1,0 +1,19 @@
+{
+  "mod_reference": "GKX_Trainwreck",
+  "name": "FastTrains",
+  "version": "0.0.1",
+  "description": "Fast locomotives",
+  "authors": [
+    "GenghisKhanX"
+  ],
+  "objects": [
+    {
+      "type": "pak",
+      "path": "GKX_Trainwreck.pak"
+    }
+  ],
+  "dependencies": {
+    "SML": "^2.0.0"
+  }
+}
+
