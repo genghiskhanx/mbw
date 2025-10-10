@@ -1,5 +1,4 @@
 # mbw
-My first git attempt: Satisfactory Modding.
 I don't know much programming, it's all self-taught.  "mbw" stands for "Mongolian BattleWorks." The first
 game I ever modded was Total Annihilation back in the late 90s. At the time the fashion was to host a
 website with a cool sounding name on one of the TA modding websites. (Such as TAUniverse.com, which is,
