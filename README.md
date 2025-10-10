@@ -7,3 +7,6 @@ incidentally, still operating.) I've been using the screen name GenghisKhanX sin
 my website Mongolian BattleWorks. I am not, even partly, related to the real Genghis Khan (that I know of,
 he kind of spread his genetic material around), nor am I Mongolian by birth. I just have always loved the 
 culture and history of the nation.
+
+MAJOR, MAJOR UPDATE!
+This will now be my repository for Apocalypse Incorporated. More info coming. Check out the outlines.
