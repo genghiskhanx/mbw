@@ -1,0 +1,55 @@
+These names are PURELY FOR ILLUSTRATION AND DO NOT REFLECT HOW I FEEL ABOUT THESE IDEALS/PEOPLE.
+
+FMC - Free Market Crusaders - "Strong Men Make Strong Armies." - The "Ayn Rand" faction.
+Factories are cheap and construction/collection units are fast. Maximum resource conversion both ways. Commander is agile and has a big gun, but is armored more weakly that other Commanders. Tanks and Planes are their specialty.
+
+TNC, INC - The New Church, Incorporated - "Live For The Sword, Die For The Sword." - The "Knights Templar" faction.
+Not a corporation, a fanatical religion focused on destroying those who oppose them politically and economically. Tech and 'hand of god' weapons are their specialty. Long range siege tanks, medium range nukes, and sacrificial air support are prioritized.
+
+MBW LLC - MetalLord BattleWorks LLC - "It's Time To Be Afraid Of The Little Guys." - The "Genghis Khan" faction.
+The newest faction, a conglomeration of smaller companies that banded together to fight for their position against the other four. Very efficient land use, very efficient conversion. Fast, light, dangerous units specializing in stealth and hit-and-run.
+
+DFI - Diversified Fidelity, Incorporated - "It's Your Money." - The "Civ Ghandi" faction.
+Diverse and adaptable, conversion is an early game asset. Factories and con-units build fast with expensive outlays of material and money. Defense can be deployed quickly by air con-units. Rapid deployment of late game strategic weapons.
+
+HISG - Haven Investment Strategies Group - "We're All In This Together." - The "Chekov" faction.
+Practicality is the name of the game. Their units aren't fancy, but THEY WORK. Factories and con-units are more heavily armored and defensive structures are dangerous. Economy is slow early game but every unit produces more money than other factions, so the bigger your army, the more power you can project.
+
+ALLIES
+
+Adjacent Factions ally together, Factions oppose non-adjacent factions. Similar to the Magic: The Gathering color wheel.
+
+The order goes FMC<->TNC<->MBW<->DFI<->HISG<->FMC
+
+FMC allies with TNC and HISG, opposes MBW and DFI.
+TNC allies with FMC and MBW, opposes DFI and HISG.
+MBW allies with TNC and DFI, opposes HISG and FMC.
+DFI allies with MBW and HISG, opposes FMC and TNC.
+HISG allies with DFI and FMC, opposes TNC and MBW.
+
+Unit Strength, Resource Efficiency, Power Projection, Defense, and Strategic Weapons are the five main areas.
+
+FMC - Air Superiority - Superior Air Units
+	Strong: Unit Strength, Power Projections
+	Weak: Resource Efficiency, Defense, Strategic Weapons
+	Superweapons: UltraTanks and UltraAir
+
+TNC - Fanaticism - Sacrificial Units
+	Strong: Resource Efficiency, Strategic Weapons
+	Weak: Unit Strength, Power Projection, Defense
+	Superweapons: Stealth bombs, Hand of God
+
+MBW - Terror of the Steppes - Zerg Writ Large
+	Strong: Unit Strength, Resource Efficiency
+	Weak: Power Projectiond, Defense, Strategic Weapons
+	Superweapons: UltraZerg
+
+DFI - Deployment Scheduling - Early and cheap (but lower damage) strategic weapons
+	Strong: Defense, Strategic Weapons
+	Weak: Unit Strength, Resource Efficiency, Defense
+	Superweapons: Mininuke Units, mobile LRPCs and RFLRPCs.
+
+HISG - Untouchable Defiance - Heavy fortifications, all Units produce Money
+	Strong: Resource Efficiency, Defense
+	Weak: Unit Strength, Power Projection, Strategic Weapons
+	Superweapons: High walls, Hover Battle Platforms

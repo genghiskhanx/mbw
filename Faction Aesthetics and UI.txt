@@ -1,0 +1,11 @@
+FMC: Functional, terrifying units like the M1A1 Abrahms main battle tank, Apache gunship, and A-10 Warthog from America's military. UI is blatantly corpo-patriotic in honor of the FMC's ethos "Strong Men Make Strong Armies."
+
+TNC: Units will all have corporate-religious iconography across the board. UI will be very Warhammer 40K. "Live For My Sword, Die For My Sword" is their ethos.
+
+MBW: Units will be angular and sleek, to reflect their fast movement and psychological warfare. They won't have a unifying theme, as MBW is a conglomerate of smaller corpos. "It's Time To Be Afraid Of The Little Guys" indeed. UI will have Mongolian and Chinese middle ages military theme.
+
+DFI: Corpo-themed but diverse unit design, reflecting a broad investment strategy for investors. "It's Your Money" is their ethos. UI will be Indian-inspired but non-cultural, focused on aesthetics that appeal to the shareholders.
+
+HISG: Russian-inspired sluggers, their units will be brutalist and efficient. "We're All In This Together" is reflected in their turtle strategy, preserving resources and defending the base. UI will be similarly brutalist, concrete and steel themed.
+
+I *actually don't know* if I can implement different UIs for the different factions. If I can't that will make the project easier and quicker. If I can, the time and effort invested will be worth it when the final product is viewed in its entirety. 

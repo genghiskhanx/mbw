@@ -1,0 +1,193 @@
+All Commanders and Con Units have resurrection capabilities.
+All Commanders are Gunship type, hovering platforms.
+All Units except ships are amphibious.
+Energy and Metal are now Money and Material.
+Support vehicles have no build menu but build quickly.
+Geothermal harvesters produce Material, not Money.
+
+Acronym - Name - Ethos - Nickname
+
+FMC - Free Market Crusaders - "Strong Men Make Strong Armies." - "Rand Faction"
+Commander - Fast Move, Fast Builder, Heavy D-Gun, Light Armor
+	1x1 Walls
+	Small Close Defenses
+	  Light Flak Tower
+	  Light Gun Tower
+	Basic Resource Buildings
+	  Investment Office
+	  Bank
+	  Material Mine
+	  Material Silo
+	  Commodities Office
+	Basic Assault Factory
+	  Light Assault Tank
+	  Light Missile Truck
+	  Light Missile Drone
+	  Light HoverGun
+	  Light TNC Assault Mercs
+	  Light HISG Assault Mercs
+	Basic construction Factory
+	  Light Support ConTruck
+	  Light Support ConDrone
+	  Light ConTruck/ConDrone
+		2x2 Walls
+		Med Close Defenses
+		  Cannon Turret
+		  Laser Turret
+		  Missile Turret
+		Med Resource Buildings
+		  Stock Brokerage
+		  Federal Bank
+		  Heavy Mine
+		  Heavy Material Silo
+		  Commodities Brokerage
+		  Geothermal Harvester
+		Adv Assault Factory
+			Medium Assault Tank
+			Medium Missile Truck
+			Medium Missile Drone
+			Medium Assault HoverGun
+			Med/Heavy TNC Assault Mercs
+			Med/Heavy HISG Assault Mercs
+		Adv Construction Factory
+			Heavy Support ConTruck
+			Heavy Fast Support ConTruck
+			Heavy Support ConDrone
+			TNC Deployment Platform
+			HISG Deployment Platform
+			Heavy ConTruck/ConDrone/Fast ConTruck
+				Ultra Assault Factory
+					Heavy Assault Tank
+					Ultra Assault Tank
+					Heavy Assault Bomber
+					Ultra Assault Bomber
+					Heavy Assault HoverGun
+					Ultra Assault HoverGun
+				Heavy/Long Range Defenses
+				  Heavy Laser Tower
+				  Heavy Flak Tower
+				  Bertha/RFLRPC
+				  Nuke/Anti-Nuke
+				Heavy Resource Buildings
+				  Stock Market
+				  Federal Reserve
+				  Ultra Mine
+				  Federal Stockpile
+				  Commodities Market
+	  Light Fast ConTruck
+		2x2 Walls
+		Med Defenses
+		Med Resource Buildings
+		TNC Merc Station
+		  Light TNC Assault Mercs
+		  Med TNC Assault Mercs
+		HISG Merc Station
+		  Light HISG Assault Mercs
+		  Med HISG Assault Mercs
+	Basic Shipyard
+		Frigate
+		Destroyer
+		Minelayer
+		Attack Sub
+		Support ConShip
+		Fast Support ConShip
+		Light ConShip
+			Adv Shipyard
+				Supertanker - Money Storage
+				Superfreighter - Material Storage
+				Carrier - 3-deck
+				Battleship
+				Guided Missile Cruiser
+				Nuclear Missile Sub
+			Floating Defenses
+			  Torpedo Platform
+			  Gun Platform
+			  Flak Platform
+		
+		
+
+TNC, INC The New Church, Incorporated - "Live For My Sword, Die For My Sword." - "Templar Faction"
+Commander - Med Move, Med Builder, Heavy D-Gun, Light Armor
+	Small Fortifications
+	Small Mid-Range Defenses
+	Basic Resource Buildings
+	Basic Ground Factory
+		Light ConTruck
+		Light Support ConTruck
+		Light Assault Tank
+		Medium Assault Tank
+	Basic Air Factory
+		Light ConDrone
+		Light Missile Drone
+		Medium Missile Drone
+		Light Hover Gun
+		Medium Hover Gun
+
+MBW LLC - Metalord BattleWorks LLC - "It's Time To Be Afraid Of The Little Guys." - "Genghis Faction"
+Commander - Fast Move, Slow Builder, Med D-Gun, Med Armor
+	Small Close and Mid-Range Defenses
+	Basic Resource Buildings
+	Basic Assault Factory
+		Light Assault Tank
+		Light Assault Drone
+		Light Hover Gun
+	Mid Assault Factory
+		Medium Assault Tank
+		Medium Defense Tank
+		Medium Assault Drone
+		Medium Hover Gun
+	Basic construction Factory
+		Light ConTruck
+		Light Fast ConTruck
+		Light ConDrone
+		Light Support ConTruck
+	Mid construction Factory
+		Medium ConTruck
+		Medium Fast ConTruck
+		Medium ConDrone
+		Medium Support ConTruck
+		Medium Support ConDrone
+
+DFI - Diversified Fidelity, Incorporated - "It's Your Money." - "Ghandi Faction"
+Commander - Slow Move, Fast Builder, Med D-Gun, Heavy Armor
+	Small/Med Fortifications
+	Small/Med Close Defenses
+	Basic/Mid Resource Buildings
+	Basic Ground Factory
+		Light Assault Tank
+		Medium Assault Tank
+		Light ConTruck
+		Medium ConTruck
+	Basic Air Factory
+		Light Assault Drone
+		Light Hover Gun
+		Medium Hover Gun
+	Basic construction Factory
+		Light ConTruck
+		Light Support ConTruck
+		Light ConDrone
+		Light Support ConDrone
+	Mid construction Factory
+		Medium ConTruck
+		Medium Support ConTruck
+		Medium ConDrone
+		Medium Support ConDrone
+
+HISG - Haven Investiment Strategies Group - "We're All In This Together." - "Chekov Faction"
+Commander - Slow Move, Slow Builder, Heavy D-Gun, Heavy Armor
+	Small/Mid/Large Fortifications
+	Small/Mid Close and Mid-Range Defenses
+	Basic/Mid Resource Buildings
+	Basic Assault Factory
+		Light Assault Tank
+		Light Defense Tank
+		Light Assault Drone
+		Light Hover Gun
+		Medium Assault Tank
+		Medium Defense Tank
+		Medium Hover Gun
+	Basic construction Factory
+		Light ConTruck
+		Light Support ConTruck
+		Light ConDrone
+		Light Support ConDrone

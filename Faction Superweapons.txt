@@ -1,0 +1,10 @@
+FMC: Supertanks, Heavy Hover Guns
+
+TNC: Hand of God, Heavy Extractors/Storage
+
+MBW: Advanced Zerg, Mobile Resource Units
+
+DFI: Nukes and RFLRPCs, Defense Guns
+
+HIGS: Krogoths, Fortifications
+
