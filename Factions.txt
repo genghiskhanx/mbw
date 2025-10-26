@@ -8,7 +8,7 @@ I am fundamentally altering the strategic objectives and core loop of the game t
 * Corpse-Resurrection: All Commanders and ConUnits have the unique ability to resurrect destroyed units from their wreckage. This makes recovering from losses a key part of the game.
 * Universal Amphibious Units: All units, with the exception of ships, are amphibious, removing the need for transports for simple map traversal and emphasizing strategic positioning on any terrain.
 * Revamped Commanders: All Commanders are now gunship-like hovering platforms with varied stats (speed, armor, D-Gun power, build speed) that align with their faction's philosophy.
-* Specialized ConUnits: You have introduced Support ConUnits that have no build menu but build quickly, making them ideal for repairing and assisting in construction.
+* Specialized ConUnits: I have introduced Support ConUnits that have no build menu but build quickly, making them ideal for repairing and assisting in construction.
 
 Economy & Resources
 I have redefined the economic system to align with the mod's cyberpunk, corporate theme.
@@ -276,4 +276,5 @@ Commander: General
 				+Submerged Heavy Torpedo Turret
 				+Advanced Harvester
 				+Long-Range Submerged Sonar/Radar
+
 				+Advanced Storage
