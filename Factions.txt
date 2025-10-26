@@ -1,25 +1,60 @@
-These names are PURELY FOR ILLUSTRATION AND DO NOT REFLECT HOW I FEEL ABOUT THESE IDEALS/PEOPLE.
+Project Goals: Total Annihilation: Apocalypse Incorporated
 
-FMC - Free Market Crusaders - "Strong Men Make Strong Armies." - The "Ayn Rand" faction.
+This project is a total conversion of the original Total Annihilation, with the goal of transforming the game into a cyberpunk, automated-warfare-themed real-time strategy game. It uses no engine-level hacks other than those commonly employed by TA:Forever players.
+
+Core Gameplay & Strategic Loop
+I am fundamentally altering the strategic objectives and core loop of the game to create a more dynamic and fast-paced experience.
+
+* Corpse-Resurrection: All Commanders and ConUnits have the unique ability to resurrect destroyed units from their wreckage. This makes recovering from losses a key part of the game.
+* Universal Amphibious Units: All units, with the exception of ships, are amphibious, removing the need for transports for simple map traversal and emphasizing strategic positioning on any terrain.
+* Revamped Commanders: All Commanders are now gunship-like hovering platforms with varied stats (speed, armor, D-Gun power, build speed) that align with their faction's philosophy.
+* Specialized ConUnits: You have introduced Support ConUnits that have no build menu but build quickly, making them ideal for repairing and assisting in construction.
+
+Economy & Resources
+I have redefined the economic system to align with the mod's cyberpunk, corporate theme.
+
+* Resource Renaming: The original game's Energy and Metal are now called Capital and Assets, respectively. This rebranding creates a more intuitive and thematic connection to the corporate world of your mod.
+* Harvesters produce Capital and Assets, produce more Assets when placed on metal spots, and all units produce Capital.
+* Two-Way Resource Conversion: In addition to the standard Capital-to-Assets converters, I am adding non-unit Features that are built with Assets, but can be recovered for Capital. This creates a market-based economy where players must manage the relative scarcity of both resources.
+* Geothermal Harvesters: Geothermal harvesters now produce Assets instead of the traditional Capital[cite: 4].
+
+Superweapons
+The TC is designed from the ground-up to encourage fast play, leading to a quick endgame and slugfest.
+
+* FMC: Superweapons are UltraTanks and UltraAir designed for a powerful ground and air assault.
+* TNC: Superweapons include Stealth bombs and the Hand of God, designed for uncounterable, strategic attacks.
+* MBW: The superweapon is UltraZerg, representing advanced zerg tactics with fast, heavy, and cheap units.
+* DFI: The superweapons include mininuke units and mobile LRPCs and RFLRPCs, designed for defensive and strategic attacks.
+* HISG: The superweapons are Krogoth-like units and heavy fortifications, designed for a brutal war of attrition.
+
+================================================================================
+
+[[These names are PURELY FOR ILLUSTRATION AND DO NOT REFLECT HOW I FEEL ABOUT THESE IDEALS/PEOPLE.]]
+
+FMC - Free Market Crusaders - "Strong Men Make Strong Armies." - The "Ayn Rand" faction. Inspired by 1950s America.
 Factories are cheap and construction/collection units are fast. Maximum resource conversion both ways. Commander is agile and has a big gun, but is armored more weakly that other Commanders. Tanks and Planes are their specialty.
 
-TNC, INC - The New Church, Incorporated - "Live For The Sword, Die For The Sword." - The "Knights Templar" faction.
+TNC, INC - The New Church, Incorporated - "Live For The Sword, Die For The Sword." - The "Knights Templar" faction. Inspired by The Crusades.
 Not a corporation, a fanatical religion focused on destroying those who oppose them politically and economically. Tech and 'hand of god' weapons are their specialty. Long range siege tanks, medium range nukes, and sacrificial air support are prioritized.
 
-MBW LLC - MetalLord BattleWorks LLC - "It's Time To Be Afraid Of The Little Guys." - The "Genghis Khan" faction.
+MBW LLC - MetalLord BattleWorks LLC - "It's Time To Be Afraid Of The Little Guys." - The "Genghis Khan" faction. Inspired by, you guessed it, The Mongol Empire
 The newest faction, a conglomeration of smaller companies that banded together to fight for their position against the other four. Very efficient land use, very efficient conversion. Fast, light, dangerous units specializing in stealth and hit-and-run.
 
-DFI - Diversified Fidelity, Incorporated - "It's Your Money." - The "Civ Ghandi" faction.
+DFI - Diversified Fidelity, Incorporated - "It's Your Money." - The "Civ Ghandi" faction. Inspired by post-modern India.
 Diverse and adaptable, conversion is an early game asset. Factories and con-units build fast with expensive outlays of material and money. Defense can be deployed quickly by air con-units. Rapid deployment of late game strategic weapons.
 
-HISG - Haven Investment Strategies Group - "We're All In This Together." - The "Chekov" faction.
+HISG - Haven Investment Strategies Group - "We're All In This Together." - The "Chekov" faction. Inspired by WW2 Era Soviet Union.
 Practicality is the name of the game. Their units aren't fancy, but THEY WORK. Factories and con-units are more heavily armored and defensive structures are dangerous. Economy is slow early game but every unit produces more money than other factions, so the bigger your army, the more power you can project.
+
+================================================================================
 
 ALLIES
 
 Adjacent Factions ally together, Factions oppose non-adjacent factions. Similar to the Magic: The Gathering color wheel.
 
 The order goes FMC<->TNC<->MBW<->DFI<->HISG<->FMC
+
+FMC allies with the corpo-Stalinist collectivists and the Religious Fruitcakes to oppose the 'Eastern' Factions. The Church allies with the Andrew Ryan idiots and the Mongol Savages to oppose the Atheistic HISG and the 'dangerous dogma' of DFI. MBW allies with whoever fills the gaps in their ranks to oppose the entrenched HISG and the Cultural Victory FMC. DFI spends money on MBW and HISG weaponry to oppose the fanatics in The Church (who hate them) and the creeping imperialism of the FMC (who also hate them). Finally, HISG allies with the Corrupt Capitalists and the Nuke-Happy DFI for staying power and to oppose the cultural expansion of The Church and The Mongols.
 
 FMC allies with TNC and HISG, opposes MBW and DFI.
 TNC allies with FMC and MBW, opposes DFI and HISG.
@@ -30,7 +65,7 @@ HISG allies with DFI and FMC, opposes TNC and MBW.
 Unit Strength, Resource Efficiency, Power Projection, Defense, and Strategic Weapons are the five main areas.
 
 FMC - Air Superiority - Superior Air Units
-	Strong: Unit Strength, Power Projections
+	Strong: Unit Strength, Power Projection
 	Weak: Resource Efficiency, Defense, Strategic Weapons
 	Superweapons: UltraTanks and UltraAir
 
@@ -41,15 +76,204 @@ TNC - Fanaticism - Sacrificial Units
 
 MBW - Terror of the Steppes - Zerg Writ Large
 	Strong: Unit Strength, Resource Efficiency
-	Weak: Power Projectiond, Defense, Strategic Weapons
+	Weak: Power Projection, Defense, Strategic Weapons
 	Superweapons: UltraZerg
 
 DFI - Deployment Scheduling - Early and cheap (but lower damage) strategic weapons
 	Strong: Defense, Strategic Weapons
-	Weak: Unit Strength, Resource Efficiency, Defense
+	Weak: Unit Strength, Resource Efficiency, Power Projection
 	Superweapons: Mininuke Units, mobile LRPCs and RFLRPCs.
 
 HISG - Untouchable Defiance - Heavy fortifications, all Units produce Money
 	Strong: Resource Efficiency, Defense
 	Weak: Unit Strength, Power Projection, Strategic Weapons
 	Superweapons: High walls, Hover Battle Platforms
+	
+================================================================================
+	
+Free Market Crusaders - FMC
+
+Ethos: Powerful singular units.
+Commander: General. Fast, medium build speed, light armor, heavy D-Gun, medium secondary.
+Factories: Divided into Assault and Construction tech trees. All armed and armored.
+Resource buildings (collectors and storage): All armed and armored.
+Ground Units: High armor and powerful weapons.
+Air Units: Fast and heavily armed, but with less armor.
+Ships: Floating fortresses.
+Construction Units: Assault factories can only be built by construction units, and assault factories don't build con units.
+Support Units: Fast, armed, and maneuverable.
+
+
+The New Church, Incorporated - TNC
+
+Ethos: Conversion by the sword.
+Commander: Cardinal. Medium speed, medium build, heavy armor, medium D-Gun, medium secondary.
+Factories: Fast builders with weak armor.
+Resource buildings: In addition to being better harvesters, they are heavily armored.
+Ground Units: Deadly at close range, with lots of stun weapons and converter beams.
+Air Units: Used to support ground troops and less for strategic bombing.
+Ships: Fast and maneuverable, with light armor but heavy weapons.
+Construction Units: Fast with fast build, to deploy forward-base factories and defenses. All con units in TNC can capture.
+Support Units: Heavily armored and slow, but with the usual fast build speed and long nanolathe. TNC Support Units can resurrect, unlike the other factions.
+
+
+MetalLord BattleWorks - MBW
+
+Ethos: Hit and run.
+Commander: Warlord. Fast, fast build, low armor, heavy D-Gun and secondary.
+Factories: Quick to build and *leave no corpse*.
+Resource Buildings: Quick build, high harvest, very weak armor. MBW is the only faction with stealth mobile storage.
+Ground Units: Zergs, fast with heavy weapons.
+Air Units: Terror in the skies, also fast with heavy weapons.
+Ships: Almost an afterthought, they take the FMC method of "floating fortress," although they are *not* allied with FMC.
+Construction Units: Fast and armed.
+Support Units: Fast and maneuverable.
+
+
+Diversified Fidelity, Incorporated - DFI
+
+Ethos: Diversity and application.
+Commander: Arbiter. Fast, fast build, medium armor, medium D-Gun, heavy secondary. 
+Factories: Divided more granularly than other factions, but highly specialized. All DFI units will build fast, with the associated resource drain.
+Ground Units: Divided into application, assault, defense, or strategic.
+Air Units: Ground support and strategic bombing will be separate tech trees at the higher levels.
+Ships: Primarily defensive and strategic.
+Construction Units: Fast and fast build, diversified to discourage capture.
+Support Units: Fastest build times in the game.
+
+
+Haven Investments Strategy Group - HISG
+
+Ethos: Destroy any who approach.
+Commander: Marshal. Slow, slow build, heavy armor, heavy D-Gun, heavy secondary.
+Factories: Can produce any unit in their tech level, this will be most similar to TA's tech trees, as it will be divided into Air, Ground, and Ship.
+Ground Units: Tough and slow, with heavy weapons.
+Air Units: Primarily economic assaults.
+Ships: Floating Fortresses that are better than FMC for defense.
+Construction Units: Slow builders, but heavily armored and armed to discourage capture and resurrection.
+Support Units: Fast builders with a lot of armor, but slower than other factions.
+
+================================================================================
+
+UNIT DESIGN AND USER INTERFACE
+
+FMC: Functional, terrifying units like the M1 main battle tank, Apache gunship, and A-10 Warthog from America's military. UI is blatantly corpo-patriotic in honor of the FMC's ethos "Strong Men Make Strong Armies."
+
+TNC: Units will all have corporate-religious iconography across the board. UI will be very Warhammer 40K. "Live For My Sword, Die For My Sword" is their ethos.
+
+MBW: Units will be angular and sleek, to reflect their fast movement and psychological warfare. They won't have a unifying theme, as MBW is a conglomerate of smaller corpos. "It's Time To Be Afraid Of The Little Guys" indeed. UI will have Mongolian and Chinese middle ages military theme.
+
+DFI: Corpo-themed but diverse unit design, reflecting a broad investment strategy for investors. "It's Your Money" is their ethos. UI will be Indian-inspired but non-cultural, focused on aesthetics that appeal to the shareholders.
+
+HISG: Russian-inspired sluggers, their units will be brutalist and efficient. "We're All In This Together" is reflected in their porcupine strategy, preserving resources and defending the base. UI will be similarly brutalist, concrete and steel themed.
+
+I *actually don't know* if I can implement different UIs for the different factions. If I can't that will make the project easier and quicker. If I can, the time and effort invested will be worth it when the final product is viewed in its entirety. 
+
+================================================================================
+
+SAMPLE TECH TREE (FMC):
+
+Free Market Crusaders Tech Tree
+
+Unique tech: Gauss Weapons: Can easily target air, ground, or sea units.
+
+Commander: General
++Gauss Tower
++Basic Radar Tower
++Basic Harvester
++Basic Storage
++Basic Purchaser
++Basic Assault Factory
+|	+Light Gauss Tank
+|	+Light Missile Truck
+|	+Light Gauss HoverGun
+|	+Light Missile Drone
+|	+Light Radar Truck
+|	+Light TNC Mercenary Tank
+|	+Light TNC Mercenary Drone
+|	+Light HISG Mercenary Missile Truck
+|	+Light HISG Mercenary HoverGun
++Basic Construction Factory
+|	+Light Support Truck
+|	+Light Support Drone
+|	+Light ConTruck/Light ConDrone
+|	|	+Wall
+|	|	+Ballistic Turret
+|	|	+Heavy Gauss Turret
+|	|	+VertLaunch Missile Turret
+|	|	+Advanced Radar Station
+|	|	+Basic Capital Storage
+|	|	+Basic Asset Storage
+|	|	+Medium Harvester
+|	|	+Geothermal Harvester
+|	|	+Medium Asset/Capital Storage
+|	|	+Advanced Assault Factory
+|	|	|	+Heavy Gauss Tank
+|	|	|	+Heavy VertLaunch Missile Truck
+|	|	|	+Heavy Radar Truck
+|	|	|	+Heavy Bomber
+|	|	|	+Heavy Missile Drone
+|	|	|	+Heavy Gauss HoverGun
+|	|	|	+Heavy TNC Tank
+|	|	|	+Heavy TNC HoverGun
+|	|	|	+Heavy HISG Tank
+|	|	|	+Heavy HISG Drone
+|	|	+Advanced Construction Factory
+|	|		+Heavy Support Tank
+|	|		+Heavy Fast Support Tank
+|	|		+Heavy Support Drone
+|	|		+TNC Deployment Platform
+|	|		|	+TNC NPAs
+|	|		+HISG Deployment Platform
+|	|		|	+HISG NPAs
+|	|		+Heavy Con Truck/Con Drone/Fast ConTruck
+|	|			+Heavy Flak/Gauss Turret
+|	|			+Heavy Plasma Cannon
+|	|			+Nuke Laucher
+|	|			+Advanced Harvester
+|	|			+Advanced Storage
+|	|			+Asset Cache
+|	|			+Capital Cache
+|	|			+Advanced Purchaser
+|	|			+Ultra Assault Factory
+|	|				+Ultra Gauss Tank
+|	|				+Ultra Missile Tank
+|	|				+Ultra Bomber
+|	|				+Ultra HoverGun
+|	|				+Ultra Drone
+|	|				+Nuke Truck
+|	+Light Fast ConTruck
+|		+Plasma Turret
+|		+Heavy Gauss Turret
+|		+VertLaunch Missile Turret
+|		+Advanced Construction Factory
+|		|	+[See Above]
+|		+TNC Merc Station
+|		|	+TNC Medium Assault Units
+|		+HISG Merc Station
+|		|	+HISG Medium Assault Units
++Basic Shipyard
+	+Missile Frigate
+	+Missile Cruiser
+	+Light Carrier
+	+Transport Hovercraft
+	+Light Support ConShip
+	+Light ConShip
+		+Floating Gauss Turret
+		+Submerged Torpedo Turret
+		+Basic Harvester
+		+Basic Storage
+		+Submerged Sonar/Radar
+		+Advanced Shipyard
+			+Heavy Cruiser
+			+Heavy Carrier
+			+Attack Submarine
+			+Nuke Submarine
+			+Heavy Transport Ship
+			+Heavy ConShip
+				+Floating Gauss Turret
+				+Floating Plasma Cannon
+				+Submerged Heavy Torpedo Turret
+				+Advanced Harvester
+				+Long-Range Submerged Sonar/Radar
+				+Advanced Storage
